@@ -1,4 +1,5 @@
-#0-1perceptron.py
+# 0-1perceptron.py
+#单层感知器的作用是进行分类，局限性：无法很好的解决异或问题
 
 import numpy as np
 import matplotlib.pyplot as plt
